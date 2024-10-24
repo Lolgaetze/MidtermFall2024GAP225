@@ -1,0 +1,10 @@
+﻿  MazeGame.cpp
+C:\Dan\AAU\255\HM4\GAP_255_Composition_Dan_Nicholas\GAP_255_MazeGame_M04\MazeGame.h(12,1): warning C4003: not enough arguments for function-like macro invocation 'DYNAMIC_ARRAY'
+  (compiling source file 'MazeGame.cpp')
+  
+C:\Dan\AAU\255\HM4\GAP_255_Composition_Dan_Nicholas\GAP_255_MazeGame_M04\MazeGame.h(15,7): warning C4099: 'PendingMovement': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'MazeGame.cpp')
+      C:\Dan\AAU\255\HM4\GAP_255_Composition_Dan_Nicholas\GAP_255_MazeGame_M04\Movement.h(11,8):
+      see declaration of 'PendingMovement'
+  
+  GAP_255_MazeGame_M04.vcxproj -> C:\Dan\AAU\255\HM4\GAP_255_Composition_Dan_Nicholas\x64\Debug\GAP_255_MazeGame_M04.exe
